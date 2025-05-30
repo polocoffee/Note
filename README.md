@@ -5,11 +5,13 @@
 ⚪Architecture <br>
   〰 MVI (Model-View-Intent) <br>
   〰 Clean Architecture <br>
-                    
+
+⚪APi <br>    
+  〰 https://pixabay.com
 
 ⚪Libraries <br>
   〰 RoomDatabase <br>                                     
-  〰 Retrofit2 to connect API <br>
+  〰 Retrofit2 to connect API   <br>
   〰 Coil to get Image from API <br>
   〰 Dagger Hilt (Dependency Injection) <br>
   〰 Coruotines <br>
