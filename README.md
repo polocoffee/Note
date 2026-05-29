@@ -87,13 +87,18 @@ The application allows users to create, edit, delete, search, and organize notes
 
 ## 📱 Screenshots
 
-Add screenshots here:
+<div align="center">
 
-|Splash Screen| Home Screen | Add Note   | Image Search |
-| ----------- | ---------- | ------------ | ------------ |
-| <img width="1280" height="2856" alt="Screenshot_20260529_114307" src="https://github.com/user-attachments/assets/02c3adcb-1ab8-41b5-9495-b47afddb2b12" /> | <img width="1280" height="2856" alt="Screenshot_20260529_114210" src="https://github.com/user-attachments/assets/7e6b588c-a218-416e-a1f6-035d6d5df640" />
-| <img width="1280" height="2856" alt="Screenshot_20260529_114532" src="https://github.com/user-attachments/assets/a0c9401e-586e-4a93-a0aa-dfac2eb76e82" /> | <img width="1280" height="2856" alt="Screenshot_20260529_114247" src="https://github.com/user-attachments/assets/8dffd764-3296-4764-b0d6-e0acf707c7b4" />
-|
+| Splash Screen                                   | Home Screen                                   |
+| ----------------------------------------------- | --------------------------------------------- |
+| <img width="1280" height="2856" alt="Screenshot_20260529_114307" src="https://github.com/user-attachments/assets/02c3adcb-1ab8-41b5-9495-b47afddb2b12"/> | <img width="1280" height="2856" alt="Screenshot_20260529_114210" src="https://github.com/user-attachments/assets/7e6b588c-a218-416e-a1f6-035d6d5df640"/> |
+
+| Add Note                                          | Image Search                                          |
+| ------------------------------------------------- | ----------------------------------------------------- |
+| <img width="1280" height="2856" alt="Screenshot_20260529_114532" src="https://github.com/user-attachments/assets/a0c9401e-586e-4a93-a0aa-dfac2eb76e82"/> | <img width="1280" height="2856" alt="Screenshot_20260529_114247" src="https://github.com/user-attachments/assets/8dffd764-3296-4764-b0d6-e0acf707c7b4"/> |
+
+</div>
+
 
 ---
 
